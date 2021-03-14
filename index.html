@@ -3,51 +3,53 @@ layout: default
 ---
 
 <div>
+  <img src="{{ site.baseurl }}/images/bridge.jpg" />
   <h1>Welcome to sublimewe</h1>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus euismod lorem eu lorem vehicula, ac pulvinar neque dapibus. Cras in purus id erat feugiat faucibus at sed odio. Nullam in mauris erat. Aliquam sit amet sem eu nulla rhoncus vestibulum quis a dolor. Maecenas vehicula dui ligula, at vehicula lorem sollicitudin non. Pellentesque vitae tellus vitae urna rhoncus maximus vitae et est. Curabitur in venenatis sem. Curabitur tortor turpis, dignissim non nunc eget, ornare dapibus nunc. Sed condimentum lacinia ex ut pulvinar. Phasellus in lacus eu urna ultrices venenatis sed vel orci. Duis eu ultricies nunc.</p>
 </div>
 
-<div class="posts">
-  {% for post in paginator.posts %}
-    <article class="post">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        <h1>{{ post.title }}</h1>
+<!-- <div class="posts"> -->
+<!--   {% for post in paginator.posts %} -->
+<!--     <article class="post"> -->
+<!--       <a href="{{ site.baseurl }}{{ post.url }}"> -->
+<!--         <h1>{{ post.title }}</h1> -->
 
-        <div>
-          <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
-        </div>
-      </a>
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+<!--         <div> -->
+<!--           <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p> -->
+<!--         </div> -->
+<!--       </a> -->
+<!--       <div class="entry"> -->
+<!--         {{ post.excerpt }} -->
+<!--       </div> -->
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+<!--       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a> -->
+<!--     </article> -->
+<!--   {% endfor %} -->
 
-  <!-- pagination -->
-  {% if paginator.total_pages > 1 %}
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
-    {% else %}
-      <span>&laquo; Prev</span>
-    {% endif %}
+<!--   <1!-- pagination --1> -->
+<!--   {% if paginator.total_pages > 1 %} -->
+<!--   <div class="pagination"> -->
+<!--     {% if paginator.previous_page %} -->
+<!--       <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a> -->
+<!--     {% else %} -->
+<!--       <span>&laquo; Prev</span> -->
+<!--     {% endif %} -->
 
-    {% for page in (1..paginator.total_pages) %}
-      {% if page == paginator.page %}
-        <span class="webjeda">{{ page }}</span>
-      {% elsif page == 1 %}
-        <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
-      {% else %}
-        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-      {% endif %}
-    {% endfor %}
+<!--     {% for page in (1..paginator.total_pages) %} -->
+<!--       {% if page == paginator.page %} -->
+<!--         <span class="webjeda">{{ page }}</span> -->
+<!--       {% elsif page == 1 %} -->
+<!--         <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a> -->
+<!--       {% else %} -->
+<!--         <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a> -->
+<!--       {% endif %} -->
+<!--     {% endfor %} -->
 
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
-    {% else %}
-      <span>Next &raquo;</span>
-    {% endif %}
-  </div>
-  {% endif %}
-</div>
+<!--     {% if paginator.next_page %} -->
+<!--       <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a> -->
+<!--     {% else %} -->
+<!--       <span>Next &raquo;</span> -->
+<!--     {% endif %} -->
+<!--   </div> -->
+<!--   {% endif %} -->
+<!-- </div> -->
