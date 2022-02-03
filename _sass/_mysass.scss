@@ -6,8 +6,121 @@
   border: none;
   border-radius: 11px;
   padding: 15px;
-  font-size: 15px;
+  font-size: 20px;
   font-weight: bold;
   cursor: pointer;
-  width: 240px;
+  width: 283px;
+  margin-bottom: 60px;
+  margin-top: 30px;
+}
+
+.quote {
+  text-align: center;
+  padding-top: 20px;
+  color: #676765;
+  font-size: 1.4rem;
+  font-style: italic;
+  line-height: 1.8;
+}
+
+.endorser {
+  color: #262624;
+  font-family: 'Helvetica Neue',Helvetica,sans-serif;
+  font-size: 1rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-style: normal;
+  padding-top: 0px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.endorserRole {
+  text-align: center;
+  margin-top: -10px;
+  font-size: 15px;
+}
+
+.ebookText {
+  margin: 100px 0;
+  text-align: center;
+}
+
+.ebookSVG {
+  height: 50px;
+  display: inline;
+  vertical-align: middle;
+  margin-top: -5px;
+}
+
+.contents {
+  padding: 70px 0 80px;
+  background-color: #F0EEE8;
+  width: calc(100vw - 20px);
+  margin-left: calc(-50vw + 50% + 10px);
+  margin-bottom: -45px;
+
+  h1 {
+    margin-top: 0px;
+    text-align: center;
+    color: #b9b9b9;
+    font-size: 2rem;
+    font-weight: 400;
+    letter-spacing: 3px;
+  }
+}
+
+.contentsList {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
+
+.contentsItem {
+  padding: 0 50px;
+  span {
+    color: #b9b9b9;
+    font-size: 0.9em;
+    padding-right: 4px;
+    font-style: italic;
+    transition: color 0.2s linear 0s !important;
+  }
+
+  a {
+    color: #262624;
+    text-decoration: none;
+    line-height: inherit;
+  }
+
+  h5 {
+    font-size: 1.125rem;
+    font-weight: bold;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
+  ul {
+    padding-left: 0;
+  }
+  ul li {
+    margin: 0 0 0.4375rem 0;
+    font-size: 0.875rem;
+    color: #67686a;
+    padding-left: 10px;
+    position: relative;
+  }
+}
+
+.contentsHeader {
+  font-size: 1.125rem;
+  font-weight: bold;
+}
+
+.contents li a {
+  color: #67686a;
+  padding-left: 20px;
+  position: relative;
+}
+
+.contents li {
+  list-style: none;
 }
