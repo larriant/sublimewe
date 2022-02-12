@@ -22,7 +22,7 @@ I will now explore this narrative in more depth, beginning with the individualâ€
 
 ## **Time to Come Alive**
 
-![https://miro.medium.com/max/1280/1*Xvf2s_cWFv5xsd2HZFgBMQ.jpeg](https://miro.medium.com/max/1280/1*Xvf2s_cWFv5xsd2HZFgBMQ.jpeg)
+![Stuck in Prison](https://miro.medium.com/max/1280/1*Xvf2s_cWFv5xsd2HZFgBMQ.jpeg)
 
 How many of us in our Modern Culture are truly living?
 
@@ -168,7 +168,7 @@ Together, we can make the most of the limited time we have on this Earth.
 
 ## **Collectives Serenading Life**
 
-![https://miro.medium.com/max/1280/1*2C9-G-nVJmOKSqfdf7BF6A.jpeg](https://miro.medium.com/max/1280/1*2C9-G-nVJmOKSqfdf7BF6A.jpeg)
+![A collective serenading](https://miro.medium.com/max/1280/1*2C9-G-nVJmOKSqfdf7BF6A.jpeg)
 
 Groups also have their role in giving back to Life.
 
@@ -190,7 +190,7 @@ We can create communities that are themselves gifts back to Life â€” collectives
 
 ## **Finding Our Humanity**
 
-![https://miro.medium.com/max/1280/1*MCytY59NRKPmLDBB4Ce2Vw.jpeg](https://miro.medium.com/max/1280/1*MCytY59NRKPmLDBB4Ce2Vw.jpeg)
+![Finding our Humanity](https://miro.medium.com/max/1280/1*MCytY59NRKPmLDBB4Ce2Vw.jpeg)
 
 What about humanity as a whole?
 

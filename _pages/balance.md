@@ -99,7 +99,7 @@ When all these parts are working in unison together, Tim has an experience of li
 
 Here is a diagram of the full model of an individual in a Transformative Group:
 
-![https://miro.medium.com/max/1400/1*zzKkXHL-_w117lB4gIr3pA.png](https://miro.medium.com/max/1400/1*zzKkXHL-_w117lB4gIr3pA.png)
+![Transformative Group Individual](https://miro.medium.com/max/1400/1*zzKkXHL-_w117lB4gIr3pA.png)
 
 ## **Facets of the Transformative Group**
 
@@ -141,7 +141,7 @@ Let’s get practical! Suppose someone in Tim’s group wants to chop down part 
 
 Here is a diagram of the full model of a non-dual civilisation:
 
-![https://miro.medium.com/max/1400/1*TDge-n3mwJGHBOOhKIw8oA.png](https://miro.medium.com/max/1400/1*TDge-n3mwJGHBOOhKIw8oA.png)
+![Full model Non Dual Civ](https://miro.medium.com/max/1400/1*TDge-n3mwJGHBOOhKIw8oA.png)
 
 ## **Tim’s Contribution**
 
@@ -249,4 +249,7 @@ We can entangle ourselves once more in relationship with each other, with the tr
 
 And you can play your part.
 
-Here’s [part 3](https://medium.com/the-phoenix-project/weaving-a-non-dual-civilisation-part-3-returning-to-life-3c2e7626faa6) where I explore my narrative for this transition that I call returning to Life.
+In Part 3, I explore my narrative for this transition that I call returning to Life.
+
+<a href="{{ site.baseurl }}/returningtolife/" class="button linkButton">Continue to Part 3→</a>
+

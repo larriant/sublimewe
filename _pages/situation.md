@@ -96,7 +96,7 @@ Enough talk. Let’s get started.
 
 ## **Let’s Meet Tim**
 
-![https://miro.medium.com/max/640/1*JSGG3Cbf6yJ9SAX-qUf2ww.jpeg](https://miro.medium.com/max/640/1*JSGG3Cbf6yJ9SAX-qUf2ww.jpeg)
+![Tim](https://miro.medium.com/max/640/1*JSGG3Cbf6yJ9SAX-qUf2ww.jpeg)
 
 Hi Tim!
 
@@ -130,7 +130,7 @@ In his intellect, Tim engages in **Cognitive Defending**. He hides behind solid
 
 Here is a diagram of the full model of an individual in the Traumacene:
 
-![https://miro.medium.com/max/1400/1*JMn2CAz01h7Qmvfap1RaLw.png](https://miro.medium.com/max/1400/1*JMn2CAz01h7Qmvfap1RaLw.png)
+![Individual in Traumacene](https://miro.medium.com/max/1400/1*JMn2CAz01h7Qmvfap1RaLw.png)
 
 ## **Tim Heads out Into the World**
 
@@ -176,7 +176,7 @@ Take a look around you!
 
 We see the same patterns mirrored at the civilisation level.
 
-![https://miro.medium.com/max/640/1*bjaqMybk0VAqjbQF2tfqgA.jpeg](https://miro.medium.com/max/640/1*bjaqMybk0VAqjbQF2tfqgA.jpeg)
+![Civilisational Pattern](https://miro.medium.com/max/640/1*bjaqMybk0VAqjbQF2tfqgA.jpeg)
 
 ### Extractive Intentionality of the We
 
@@ -200,7 +200,7 @@ And what’s worse is that our civilisation is totally committed to Business as 
 
 Here is a diagram of the full model of our civilisation:
 
-![https://miro.medium.com/max/1400/1*yXVIH0hWx1XcyVzc5YFaDA.png](https://miro.medium.com/max/1400/1*yXVIH0hWx1XcyVzc5YFaDA.png)
+![Full model of civ](https://miro.medium.com/max/1400/1*yXVIH0hWx1XcyVzc5YFaDA.png)
 
 ## The 8 Forms of Capital
 
@@ -238,4 +238,6 @@ In Indigenous Cultures, The Shadow would be kept in check. In *Of Water and the
 
 Our task now is to rebuild a new form of Indigenous Culture that can keep The Shadow in check, even in our modern world where The Shadow has vast new possibilities for ‘going private’ by exploiting the technological and scientific advances of our age. Instead, these advances could be used to serve humanity and all of Life.
 
-Thankfully, as we will explore in [Part 2](https://medium.com/the-phoenix-project/weaving-a-non-dual-civilisation-part-2-unveiling-the-light-a4d57b950ef): the Light has already won.
+Thankfully, as we will explore in Part 2 the Light has already won.
+
+<a href="{{ site.baseurl }}/balance/" class="button linkButton">Continue to Part 2→</a>
