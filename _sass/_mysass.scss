@@ -124,3 +124,8 @@
 .contents li {
   list-style: none;
 }
+
+img[src*="#thumbnail"] {
+   width:350px;
+   display: inline-flex;
+}

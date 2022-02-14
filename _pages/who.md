@@ -5,6 +5,8 @@ permalink: /who/
 ---
 
 ## Jake and Isabelle Wolf Lawy
+![Isabelle Wolf Lawy](/sublimewe/images/isa2.jpg#thumbnail)
+![Jake Wolf Lawy](/sublimewe/images/jake.png#thumbnail)
 Jake and Isabelle Wolf Lawy are a husband and wife team who have been co-facilitating and co-developing sublimewe spaces for more than 7 years as parts of a transnational group of co-developers.  Having held more than 12, 8 days intensives and 7, 6 month co-living spaces over the period we bring a depth of experience and embodiment of the culture of gifting we invite others into.
 
 
