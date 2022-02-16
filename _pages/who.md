@@ -11,7 +11,7 @@ Jake and Isabelle Wolf Lawy are a husband and wife team who have been co-facilit
 
 
 ## Julyan Davey
-![Julyan Davey](/sublimewe/images/julyanprofile.jpeg)
+![Julyan Davey](/sublimewe/images/julyanprofile.jpeg#thumbnail)
 
 Bringing his own in depth background as an experienced facilitator to the table Julyan has joined the ‘crew’ over the past year bringing his own unique gifts and insights to bear with a focus on Transformational Culture, Self-Responsibility and the importance of grief.
 
