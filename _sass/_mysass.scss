@@ -72,12 +72,19 @@
 
 .contentsList {
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   list-style: none;
+
+  @media (max-width: 769px){
+    flex-direction: column;
+  }
 }
 
 .contentsItem {
-  padding: 0 50px;
+  @media (max-width: 769px){
+    padding-left: 20px
+  }
+
   span {
     color: #b9b9b9;
     font-size: 0.9em;
@@ -97,6 +104,9 @@
     font-weight: bold;
     margin-top: 2rem;
     margin-bottom: 1rem;
+    @media (max-width: 769px){
+      text-align: left;
+    }
   }
   ul {
     padding-left: 0;
