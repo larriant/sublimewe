@@ -72,7 +72,7 @@
 
 .contentsList {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
   list-style: none;
 
   @media (max-width: 769px){
